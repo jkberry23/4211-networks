@@ -1,5 +1,5 @@
 An FTP client & server with limited functionality.
-Written in Python for UMN CSCI 4211
+Written in Python for UMN CSCI 4211.
 
 Run the server with:
 	python3 ftp_server.py <port_number>
