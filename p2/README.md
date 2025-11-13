@@ -1,14 +1,12 @@
-Name: Jason Berry
-ID: 5349067
-Email: berry487@umn.edu
+An FTP server with more functionality.
 
 Run the server with:
 	python3 ftp_server.py <port_number>
 
 Run the client with:
-	python3 ftp_client.py <port number>
+	python3 ftp_client.py <port_number>
 
-The server and client need to be run in different terminals on the same machine.
+The server and client need to be run on the same machine.
 
 Message format:
 	All messages are sent as strings. They are encoded when sent and decoded when received. The encoding used is UTF-8.
